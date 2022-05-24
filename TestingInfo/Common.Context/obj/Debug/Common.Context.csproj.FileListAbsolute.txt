@@ -1,0 +1,26 @@
+D:\Visual\TestingInfo.LinelIndents\Common.Context\bin\Debug\Common.Context.dll
+D:\Visual\TestingInfo.LinelIndents\Common.Context\bin\Debug\Common.Context.pdb
+D:\Visual\TestingInfo.LinelIndents\Common.Context\obj\Debug\Common.Context.csprojAssemblyReference.cache
+D:\Visual\TestingInfo.LinelIndents\Common.Context\obj\Debug\Common.Context.dll
+D:\Visual\TestingInfo.LinelIndents\Common.Context\obj\Debug\Common.Context.pdb
+D:\Visual\TestingInfo\Common.Context\bin\Debug\Common.Context.dll
+D:\Visual\TestingInfo\Common.Context\bin\Debug\Common.Context.pdb
+D:\Visual\TestingInfo\Common.Context\obj\Debug\Common.Context.dll
+D:\Visual\TestingInfo\Common.Context\obj\Debug\Common.Context.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Context\bin\Debug\Common.Context.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Context\bin\Debug\Common.Context.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Context\obj\Debug\Common.Context.csprojAssemblyReference.cache
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Context\obj\Debug\Common.Context.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Context\obj\Debug\Common.Context.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Context\bin\Debug\Common.Context.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Context\bin\Debug\Common.Context.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Context\obj\Debug\Common.Context.csprojAssemblyReference.cache
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Context\obj\Debug\Common.Context.csproj.CoreCompileInputs.cache
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Context\obj\Debug\Common.Context.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Context\obj\Debug\Common.Context.pdb
+C:\Users\Yurii\Desktop\TestingInfo\Common.Context\bin\Debug\Common.Context.dll
+C:\Users\Yurii\Desktop\TestingInfo\Common.Context\bin\Debug\Common.Context.pdb
+C:\Users\Yurii\Desktop\TestingInfo\Common.Context\obj\Debug\Common.Context.csproj.AssemblyReference.cache
+C:\Users\Yurii\Desktop\TestingInfo\Common.Context\obj\Debug\Common.Context.csproj.CoreCompileInputs.cache
+C:\Users\Yurii\Desktop\TestingInfo\Common.Context\obj\Debug\Common.Context.dll
+C:\Users\Yurii\Desktop\TestingInfo\Common.Context\obj\Debug\Common.Context.pdb

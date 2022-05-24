@@ -1,0 +1,308 @@
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.csprojAssemblyReference.cache
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.Editors.FTestEditor.resources
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.FMain.resources
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.Properties.Resources.resources
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.csproj.GenerateResource.cache
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.FormsEditor.exe.config
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.FormsEditor.exe
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.FormsEditor.pdb
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.dll
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Forms.dll
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Generic.dll
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.dll
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Context.dll
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Forms.pdb
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Generic.pdb
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.pdb
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.pdb
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Context.pdb
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.csproj.CopyComplete
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.exe
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.pdb
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.Editors.FTestResultEditor.resources
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.Selector.FTestResultSelector.resources
+D:\Visual\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.FAboutBox.resources
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.FormsEditor.exe.config
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.FormsEditor.exe
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.FormsEditor.pdb
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.dll
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Forms.dll
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Generic.dll
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.dll
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Context.dll
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Forms.pdb
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Generic.pdb
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.pdb
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.pdb
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Context.pdb
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.Editors.FTestEditor.resources
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.Editors.FTestResultEditor.resources
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.FAboutBox.resources
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.FMain.resources
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.Properties.Resources.resources
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.Selector.FTestResultSelector.resources
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.csproj.CopyComplete
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.exe
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.FormsEditor.exe.config
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.FormsEditor.exe
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.FormsEditor.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Forms.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Generic.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Context.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Forms.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Generic.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Context.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.csprojAssemblyReference.cache
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.Editors.FTestEditor.resources
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.Editors.FTestResultEditor.resources
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.FAboutBox.resources
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.FMain.resources
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.Properties.Resources.resources
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.Selector.FTestResultSelector.resources
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.csproj.GenerateResource.cache
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.csproj.CopyComplete
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.exe
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.Licensing.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.FormsEditor.exe.config
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.FormsEditor.exe
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.FormsEditor.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.Licensing.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Forms.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Generic.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Context.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Forms.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Generic.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Context.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.csprojAssemblyReference.cache
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.Editors.FTestEditor.resources
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.Editors.FTestResultEditor.resources
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.FAboutBox.resources
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.FMain.resources
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.Properties.Resources.resources
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.Selector.FTestResultSelector.resources
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.csproj.GenerateResource.cache
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.csproj.CoreCompileInputs.cache
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.csproj.CopyComplete
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.exe
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.pdb
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.FormsEditor.exe.config
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.FormsEditor.exe
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.FormsEditor.pdb
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Forms.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Generic.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Context.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Forms.pdb
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Generic.pdb
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.pdb
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\TestingInfo.pdb
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\bin\Debug\Common.Context.pdb
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.csproj.AssemblyReference.cache
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.Editors.FTestEditor.resources
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.Editors.FTestResultEditor.resources
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.FAboutBox.resources
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.FMain.resources
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.Properties.Resources.resources
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.Selector.FTestResultSelector.resources
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.csproj.GenerateResource.cache
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.csproj.CoreCompileInputs.cache
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.csproj.CopyComplete
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.exe
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo.FormsEditor\obj\Debug\TestingInfo.FormsEditor.pdb

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="TestingInfo.FormsEditor.Program">
+    <Position X="5" Y="5" Width="3.25" />
+    <AssociationLine Name="dataContext" Type="TestingInfo.Data.DataContext" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.25" Y="5.557" />
+        <Point X="12.312" Y="5.557" />
+        <Point X="12.312" Y="1.062" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAABAAAAAAIAAAAAAAAABYAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="fMain" />
+      <Field Name="dataContext" />
+      <Field Name="testResultSelector" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TestingInfo.Data.DataContext" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TestingInfo.FormsEditor.FMain">
+    <Position X="0.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>jQOIYCWIQC1CiUFEQBSRUghSCKoxOZkBsgEMYYEaSAM=</HashCode>
+      <FileName>FMain.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="fTextualInfo" />
+      <Field Name="testEditor" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Common.Forms.FTextualInfo" Collapsed="true">
+    <Position X="5.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TestingInfo.FormsEditor.Selector.FTestResultSelector">
+    <Position X="12.75" Y="2.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACJAFABEAACQAAASABAAAAAAAAAAAIAAAIA=</HashCode>
+      <FileName>Selector\FTestResultSelector.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="dataContext" />
+      <Field Name="editor" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TestingInfo.FormsEditor.Editors.FTestResultEditor">
+    <Position X="17" Y="2.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>ACABAAIAACABABAKgACQBIAOAADJhCAEAYgIAAABCAA=</HashCode>
+      <FileName>Editors\FTestResultEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Forms.FSelector">
+    <Position X="8" Y="1.25" Width="3" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TestingInfo.FormsEditor.Editors.FTestEditor">
+    <Position X="5.75" Y="9.75" Width="6.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAQACAIAAAPAAGABAACEACJQAAEAQoIAAABCCA=</HashCode>
+      <FileName>Editors\FTestEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

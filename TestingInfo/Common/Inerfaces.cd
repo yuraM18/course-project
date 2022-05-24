@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Common.Extensions.EnumerableMethods">
+    <Position X="0.5" Y="0.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Extensions\EnumerableMethods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.ConsoleIO.Entering">
+    <Position X="0.5" Y="2" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAACAAAACBAAAAAAAAQEAAAACgAABAA=</HashCode>
+      <FileName>ConsoleIO\Entering.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.ConsoleIO.Settings">
+    <Position X="0.5" Y="5.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConsoleIO\Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.ConsoleUI.CommandManager" HideInheritanceLine="true">
+    <Position X="6.5" Y="2.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAQAAAAAIEAAAAAAAAACQAAAAAAAAgAI=</HashCode>
+      <FileName>ConsoleUI\CommandManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="commandsInfo" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Common.Entities.Entity">
+    <Position X="10.25" Y="1.75" Width="2.25" />
+    <InheritanceLine Type="System.Object" FixedFromPoint="true">
+      <Path>
+        <Point X="11.375" Y="4.5" />
+        <Point X="11.375" Y="4.074" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAAAAAAAAAAEgAAAQAAAAAA=</HashCode>
+      <FileName>Entities\Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="9.75" Y="4.5" Width="3.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Common.Events.CancelingEventArgs" HideInheritanceLine="true">
+    <Position X="13" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Events\CancelingEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.EventArgs">
+    <Position X="16.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Common.Events.ObjectEventArgs" HideInheritanceLine="true">
+    <Position X="13" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Events\ObjectEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Common.ConsoleUI.CommandInfo">
+    <Position X="6.25" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConsoleUI\CommandInfo.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="command" />
+    </ShowAsAssociation>
+  </Struct>
+  <Interface Name="Common.Interfaces.IStringIdentified">
+    <Position X="3.75" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IStringIdentified.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Delegate Name="Common.ConsoleUI.Command" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConsoleUI\CommandInfo.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

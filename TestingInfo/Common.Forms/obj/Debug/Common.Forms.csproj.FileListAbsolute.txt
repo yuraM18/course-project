@@ -1,0 +1,77 @@
+D:\Visual\TestingInfo\Common.Forms\obj\Debug\Common.Forms.csprojAssemblyReference.cache
+D:\Visual\TestingInfo\Common.Forms\obj\Debug\Common.Forms.FTextualInfo.resources
+D:\Visual\TestingInfo\Common.Forms\obj\Debug\Common.Forms.csproj.GenerateResource.cache
+D:\Visual\TestingInfo\Common.Forms\bin\Debug\Common.Forms.dll
+D:\Visual\TestingInfo\Common.Forms\bin\Debug\Common.Forms.pdb
+D:\Visual\TestingInfo\Common.Forms\bin\Debug\Common.dll
+D:\Visual\TestingInfo\Common.Forms\bin\Debug\Common.Context.dll
+D:\Visual\TestingInfo\Common.Forms\bin\Debug\Common.pdb
+D:\Visual\TestingInfo\Common.Forms\bin\Debug\Common.Context.pdb
+D:\Visual\TestingInfo\Common.Forms\obj\Debug\Common.Forms.FBaseSelector.resources
+D:\Visual\TestingInfo\Common.Forms\obj\Debug\Common.Forms.FSelector.resources
+D:\Visual\TestingInfo\Common.Forms\obj\Debug\Common.Forms.csproj.CopyComplete
+D:\Visual\TestingInfo\Common.Forms\obj\Debug\Common.Forms.dll
+D:\Visual\TestingInfo\Common.Forms\obj\Debug\Common.Forms.pdb
+D:\Visual\TestingInfo\Common.Forms\obj\Debug\Common.Forms.Properties.Resources.resources
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\bin\Debug\Common.Forms.dll
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\bin\Debug\Common.Forms.pdb
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\bin\Debug\Common.dll
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\bin\Debug\Common.Context.dll
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\bin\Debug\Common.pdb
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\bin\Debug\Common.Context.pdb
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\obj\Debug\Common.Forms.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\obj\Debug\Common.Forms.FBaseSelector.resources
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\obj\Debug\Common.Forms.FSelector.resources
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\obj\Debug\Common.Forms.FTextualInfo.resources
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\obj\Debug\Common.Forms.Properties.Resources.resources
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\obj\Debug\Common.Forms.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\obj\Debug\Common.Forms.csproj.CopyComplete
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\obj\Debug\Common.Forms.dll
+C:\Users\Admin\Desktop\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\obj\Debug\Common.Forms.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\bin\Debug\Common.Forms.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\bin\Debug\Common.Forms.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\bin\Debug\Common.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\bin\Debug\Common.Context.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\bin\Debug\Common.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\bin\Debug\Common.Context.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\obj\Debug\Common.Forms.csprojAssemblyReference.cache
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\obj\Debug\Common.Forms.FBaseSelector.resources
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\obj\Debug\Common.Forms.FSelector.resources
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\obj\Debug\Common.Forms.FTextualInfo.resources
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\obj\Debug\Common.Forms.Properties.Resources.resources
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\obj\Debug\Common.Forms.csproj.GenerateResource.cache
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\obj\Debug\Common.Forms.csproj.CopyComplete
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\obj\Debug\Common.Forms.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\Common.Forms\obj\Debug\Common.Forms.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Forms\bin\Debug\Common.Forms.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Forms\bin\Debug\Common.Forms.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Forms\bin\Debug\Common.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Forms\bin\Debug\Common.Context.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Forms\bin\Debug\Common.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Forms\bin\Debug\Common.Context.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Forms\obj\Debug\Common.Forms.csprojAssemblyReference.cache
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Forms\obj\Debug\Common.Forms.FBaseSelector.resources
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Forms\obj\Debug\Common.Forms.FSelector.resources
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Forms\obj\Debug\Common.Forms.FTextualInfo.resources
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Forms\obj\Debug\Common.Forms.Properties.Resources.resources
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Forms\obj\Debug\Common.Forms.csproj.GenerateResource.cache
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Forms\obj\Debug\Common.Forms.csproj.CoreCompileInputs.cache
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Forms\obj\Debug\Common.Forms.csproj.CopyComplete
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Forms\obj\Debug\Common.Forms.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\Common.Forms\obj\Debug\Common.Forms.pdb
+C:\Users\Yurii\Desktop\TestingInfo\Common.Forms\bin\Debug\Common.Forms.dll
+C:\Users\Yurii\Desktop\TestingInfo\Common.Forms\bin\Debug\Common.Forms.pdb
+C:\Users\Yurii\Desktop\TestingInfo\Common.Forms\bin\Debug\Common.dll
+C:\Users\Yurii\Desktop\TestingInfo\Common.Forms\bin\Debug\Common.Context.dll
+C:\Users\Yurii\Desktop\TestingInfo\Common.Forms\bin\Debug\Common.pdb
+C:\Users\Yurii\Desktop\TestingInfo\Common.Forms\bin\Debug\Common.Context.pdb
+C:\Users\Yurii\Desktop\TestingInfo\Common.Forms\obj\Debug\Common.Forms.csproj.AssemblyReference.cache
+C:\Users\Yurii\Desktop\TestingInfo\Common.Forms\obj\Debug\Common.Forms.FBaseSelector.resources
+C:\Users\Yurii\Desktop\TestingInfo\Common.Forms\obj\Debug\Common.Forms.FSelector.resources
+C:\Users\Yurii\Desktop\TestingInfo\Common.Forms\obj\Debug\Common.Forms.FTextualInfo.resources
+C:\Users\Yurii\Desktop\TestingInfo\Common.Forms\obj\Debug\Common.Forms.Properties.Resources.resources
+C:\Users\Yurii\Desktop\TestingInfo\Common.Forms\obj\Debug\Common.Forms.csproj.GenerateResource.cache
+C:\Users\Yurii\Desktop\TestingInfo\Common.Forms\obj\Debug\Common.Forms.csproj.CoreCompileInputs.cache
+C:\Users\Yurii\Desktop\TestingInfo\Common.Forms\obj\Debug\Common.Forms.csproj.CopyComplete
+C:\Users\Yurii\Desktop\TestingInfo\Common.Forms\obj\Debug\Common.Forms.dll
+C:\Users\Yurii\Desktop\TestingInfo\Common.Forms\obj\Debug\Common.Forms.pdb

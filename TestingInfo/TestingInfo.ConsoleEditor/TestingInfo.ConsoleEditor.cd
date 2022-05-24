@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="TestingInfo.ConsoleEditor.Program">
+    <Position X="0.5" Y="0.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAABIAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="dataContext" />
+      <Field Name="mainManager" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TestingInfo.Data.DataContext" Collapsed="true">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TestingInfo.ConsoleEditor.ConsoleUI.MainManager">
+    <Position X="0.5" Y="3" Width="3.5" />
+    <AssociationLine Name="dataContext" Type="TestingInfo.Data.DataContext" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.625" Y="3" />
+        <Point X="3.625" Y="2.625" />
+        <Point X="6.125" Y="2.625" />
+        <Point X="6.125" Y="1.312" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="testResultEditor" Type="TestingInfo.ConsoleEditor.Editors.TestResultEditor" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2.25" Y="6.156" />
+        <Point X="2.25" Y="6.983" />
+        <Point X="8.75" Y="6.983" />
+        <Point X="8.75" Y="6.608" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>QAQAAIAAAAAAAQAAAAgAAAYABAAAAACQAAAAAIBAAAA=</HashCode>
+      <FileName>ConsoleUI\MainManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="dataContext" />
+      <Field Name="testResultEditor" />
+      <Field Name="testsEditor" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TestingInfo.ConsoleEditor.Editors.TestResultEditor">
+    <Position X="8.25" Y="3" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACIAABgEAAAAAQAAAAACBAAAAAAAAAAQAAAAAMAAAAI=</HashCode>
+      <FileName>Editors\TestResultEditor.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="dataContext" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TestingInfo.ConsoleEditor.Editors.TestsEditor">
+    <Position X="5" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ACIAABAAAAAAgQAAAAAQBAAAAAIAAAAQAAAAAIAACAA=</HashCode>
+      <FileName>Editors\TestsEditor.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="dataContext" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

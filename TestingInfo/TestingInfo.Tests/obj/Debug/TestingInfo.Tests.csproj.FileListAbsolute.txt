@@ -1,0 +1,73 @@
+D:\Visual\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Visual\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Visual\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Visual\TestingInfo\TestingInfo.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Visual\TestingInfo\TestingInfo.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Visual\TestingInfo\TestingInfo.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Visual\TestingInfo\TestingInfo.Tests\bin\Debug\TestingInfo.Tests.dll
+D:\Visual\TestingInfo\TestingInfo.Tests\bin\Debug\TestingInfo.Tests.pdb
+D:\Visual\TestingInfo\TestingInfo.Tests\bin\Debug\Common.dll
+D:\Visual\TestingInfo\TestingInfo.Tests\bin\Debug\Common.Generic.dll
+D:\Visual\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Visual\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Visual\TestingInfo\TestingInfo.Tests\bin\Debug\TestingInfo.dll
+D:\Visual\TestingInfo\TestingInfo.Tests\bin\Debug\Common.Context.dll
+D:\Visual\TestingInfo\TestingInfo.Tests\bin\Debug\Common.Generic.pdb
+D:\Visual\TestingInfo\TestingInfo.Tests\bin\Debug\Common.pdb
+D:\Visual\TestingInfo\TestingInfo.Tests\bin\Debug\TestingInfo.pdb
+D:\Visual\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Visual\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Visual\TestingInfo\TestingInfo.Tests\bin\Debug\Common.Context.pdb
+D:\Visual\TestingInfo\TestingInfo.Tests\obj\Debug\TestingInfo.Tests.csprojAssemblyReference.cache
+D:\Visual\TestingInfo\TestingInfo.Tests\obj\Debug\TestingInfo.Tests.csproj.CopyComplete
+D:\Visual\TestingInfo\TestingInfo.Tests\obj\Debug\TestingInfo.Tests.dll
+D:\Visual\TestingInfo\TestingInfo.Tests\obj\Debug\TestingInfo.Tests.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\bin\Debug\TestingInfo.Tests.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\bin\Debug\TestingInfo.Tests.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\bin\Debug\Common.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\bin\Debug\Common.Generic.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\bin\Debug\TestingInfo.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\bin\Debug\Common.Context.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\bin\Debug\Common.Generic.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\bin\Debug\Common.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\bin\Debug\TestingInfo.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\bin\Debug\Common.Context.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\obj\Debug\TestingInfo.Tests.csprojAssemblyReference.cache
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\obj\Debug\TestingInfo.Tests.csproj.CopyComplete
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\obj\Debug\TestingInfo.Tests.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo.Tests\obj\Debug\TestingInfo.Tests.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\obj\Debug\TestingInfo.Tests.csprojAssemblyReference.cache
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\obj\Debug\TestingInfo.Tests.csproj.CoreCompileInputs.cache
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\obj\Debug\TestingInfo.Tests.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\obj\Debug\TestingInfo.Tests.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\bin\Debug\TestingInfo.Tests.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\bin\Debug\TestingInfo.Tests.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\bin\Debug\Common.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\bin\Debug\Common.Generic.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\bin\Debug\TestingInfo.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\bin\Debug\Common.Context.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\bin\Debug\Common.Generic.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\bin\Debug\Common.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\bin\Debug\TestingInfo.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\bin\Debug\Common.Context.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo.Tests\obj\Debug\TestingInfo.Tests.csproj.CopyComplete

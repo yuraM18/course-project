@@ -1,0 +1,72 @@
+D:\Visual\TestingInfo.ConsoleEditor\TestingInfo\bin\Debug\TestingInfo.dll
+D:\Visual\TestingInfo.ConsoleEditor\TestingInfo\bin\Debug\TestingInfo.pdb
+D:\Visual\TestingInfo.ConsoleEditor\TestingInfo\bin\Debug\Common.dll
+D:\Visual\TestingInfo.ConsoleEditor\TestingInfo\bin\Debug\Common.Generic.dll
+D:\Visual\TestingInfo.ConsoleEditor\TestingInfo\bin\Debug\Common.Generic.pdb
+D:\Visual\TestingInfo.ConsoleEditor\TestingInfo\bin\Debug\Common.pdb
+D:\Visual\TestingInfo.ConsoleEditor\TestingInfo\obj\Debug\TestingInfo.csprojAssemblyReference.cache
+D:\Visual\TestingInfo.ConsoleEditor\TestingInfo\obj\Debug\TestingInfo.csproj.CopyComplete
+D:\Visual\TestingInfo.ConsoleEditor\TestingInfo\obj\Debug\TestingInfo.dll
+D:\Visual\TestingInfo.ConsoleEditor\TestingInfo\obj\Debug\TestingInfo.pdb
+D:\Visual\TestingInfo.LinelIndents\TestingInfo\bin\Debug\TestingInfo.dll
+D:\Visual\TestingInfo.LinelIndents\TestingInfo\bin\Debug\TestingInfo.pdb
+D:\Visual\TestingInfo.LinelIndents\TestingInfo\bin\Debug\Common.Context.dll
+D:\Visual\TestingInfo.LinelIndents\TestingInfo\bin\Debug\Common.dll
+D:\Visual\TestingInfo.LinelIndents\TestingInfo\bin\Debug\Common.Generic.dll
+D:\Visual\TestingInfo.LinelIndents\TestingInfo\bin\Debug\Common.Context.pdb
+D:\Visual\TestingInfo.LinelIndents\TestingInfo\bin\Debug\Common.Generic.pdb
+D:\Visual\TestingInfo.LinelIndents\TestingInfo\bin\Debug\Common.pdb
+D:\Visual\TestingInfo.LinelIndents\TestingInfo\obj\Debug\TestingInfo.csprojAssemblyReference.cache
+D:\Visual\TestingInfo.LinelIndents\TestingInfo\obj\Debug\TestingInfo.csproj.CopyComplete
+D:\Visual\TestingInfo.LinelIndents\TestingInfo\obj\Debug\TestingInfo.dll
+D:\Visual\TestingInfo.LinelIndents\TestingInfo\obj\Debug\TestingInfo.pdb
+D:\Visual\TestingInfo\TestingInfo\bin\Debug\TestingInfo.dll
+D:\Visual\TestingInfo\TestingInfo\bin\Debug\TestingInfo.pdb
+D:\Visual\TestingInfo\TestingInfo\bin\Debug\Common.Context.dll
+D:\Visual\TestingInfo\TestingInfo\bin\Debug\Common.dll
+D:\Visual\TestingInfo\TestingInfo\bin\Debug\Common.Generic.dll
+D:\Visual\TestingInfo\TestingInfo\bin\Debug\Common.Context.pdb
+D:\Visual\TestingInfo\TestingInfo\bin\Debug\Common.Generic.pdb
+D:\Visual\TestingInfo\TestingInfo\bin\Debug\Common.pdb
+D:\Visual\TestingInfo\TestingInfo\obj\Debug\TestingInfo.csprojAssemblyReference.cache
+D:\Visual\TestingInfo\TestingInfo\obj\Debug\TestingInfo.csproj.CopyComplete
+D:\Visual\TestingInfo\TestingInfo\obj\Debug\TestingInfo.dll
+D:\Visual\TestingInfo\TestingInfo\obj\Debug\TestingInfo.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo\bin\Debug\TestingInfo.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo\bin\Debug\TestingInfo.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo\bin\Debug\Common.Context.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo\bin\Debug\Common.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo\bin\Debug\Common.Generic.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo\bin\Debug\Common.Context.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo\bin\Debug\Common.Generic.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo\bin\Debug\Common.pdb
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo\obj\Debug\TestingInfo.csprojAssemblyReference.cache
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo\obj\Debug\TestingInfo.csproj.CopyComplete
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo\obj\Debug\TestingInfo.dll
+D:\Бурса\Практика Програмування\ПР15\TestingInfo\TestingInfo\obj\Debug\TestingInfo.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo\bin\Debug\TestingInfo.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo\bin\Debug\TestingInfo.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo\bin\Debug\Common.Context.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo\bin\Debug\Common.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo\bin\Debug\Common.Generic.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo\bin\Debug\Common.Context.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo\bin\Debug\Common.Generic.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo\bin\Debug\Common.pdb
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo\obj\Debug\TestingInfo.csprojAssemblyReference.cache
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo\obj\Debug\TestingInfo.csproj.CoreCompileInputs.cache
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo\obj\Debug\TestingInfo.csproj.CopyComplete
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo\obj\Debug\TestingInfo.dll
+C:\Users\YURA_428\Desktop\БУРСА\TestingInfo\TestingInfo\obj\Debug\TestingInfo.pdb
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo\bin\Debug\TestingInfo.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo\bin\Debug\TestingInfo.pdb
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo\bin\Debug\Common.Context.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo\bin\Debug\Common.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo\bin\Debug\Common.Generic.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo\bin\Debug\Common.Context.pdb
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo\bin\Debug\Common.Generic.pdb
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo\bin\Debug\Common.pdb
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo\obj\Debug\TestingInfo.csproj.AssemblyReference.cache
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo\obj\Debug\TestingInfo.csproj.CoreCompileInputs.cache
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo\obj\Debug\TestingInfo.csproj.CopyComplete
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo\obj\Debug\TestingInfo.dll
+C:\Users\Yurii\Desktop\TestingInfo\TestingInfo\obj\Debug\TestingInfo.pdb
